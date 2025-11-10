@@ -104,3 +104,30 @@ JAVA-QAP3-SEM3/
 │
 ```
 
+## How to Run
+
+1. Clone or download the repository to your local machine.
+   ```git clone https://github.com/KassFequet/JAVA-QAP3-SEM3.git
+   cd JAVA-QAP3-SEM3
+2. Open the project in your preferred IDE (IntelliJ IDEA, Eclipse, or VS Code).
+
+3. Navigate to the folder for the problem you want to test:
+
+   Example:
+   ```
+   cd Problem1
+5. Compile and run the Demo.java file for that problem.
+
+6. View the console output.
+
+## Project Information
+**Course:** Java - Software Development Program – Keyin College
+
+**Project:** QAP 3
+
+**Date:** November 2025
+
+**Authors:** Kassaundra Fequet
+
+**Instructor:** Dr. Qurrat-Ul-Ain Malik
+
