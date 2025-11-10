@@ -4,7 +4,7 @@ This project focuses on applying core object-oriented programming (OOP) concepts
 
 These problems focus on inheritance, abstraction, polymorphism, and interfaces.
 
-Problem 1 – Inheritance (Person, Student, Teacher, CollegeStudent)
+Problem 1 – Inheritance
 ------------------------------------------------------------------
 Implements an inheritance hierarchy to model people in an academic environment.
 
